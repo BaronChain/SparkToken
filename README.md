@@ -4,7 +4,7 @@ Sparks can be bonfires and ruin everything.
 Believing the saying and yourself,the mankind can finish everything he should do.
 
 It's the reason that ST appears in the virtual currency world.
-----------------------------
+--------------------------
 
 The original intention of ST is to solve the exploitation and oppression of small capital representatives such as retail investors by market makers and big capital. The core of virtual currency is decentralization, and the core value of decentralization is to resist supervision and gain absolute freedom. But absolute freedom inevitably brings unlimited oppression of the strong against the weak.
 
@@ -15,5 +15,19 @@ In the development process of ST, the difference in strength between bookmakers 
 ST will impose a selling limit on holders whose currency holdings exceed 1% of the currency circulation. If the holdings exceed this amount, selling will become a more difficult thing. Such holders want It takes at least half a day to clear out the tokens in his hand-if he uses MetaMask with Pancake professional mode for uninterrupted operation, the time can be controlled within half a day. If he does not do this, the time may exceed Everyone's imagination. Under the control of this mechanism, it will be difficult for a super currency holder to achieve his great cause of smashing the market.XD
 
 In addition, ST also has a very powerful big lottery mechanism-a lucky token holder will be randomly selected every once in a while, and given a double or some token reward-the specific reward, this may require Explore it yourself, or search slowly in the source code. Let us leave a little suspense for this retail carnival feast, dear coin holders.
-----------------------------
+
 Good Luck.
+--------------------------
+7th June.2021
+
+Today I contacted some Chinese friends, hoping to conduct the first experiment of ST in China to help ST's healthy growth in the future.
+
+I believe that with their help, ST can truly become a new type of integral that can fight against big capital and big investors.
+
+ST is expected to inject LP at 12:00 (GMT+8) and start trading on a decentralized dex exchange.
+
+This is a revolution in the blockchain, and every holder will be the forerunner of this revolution.
+
+Just do it,warriors!
+
+Let the Spark Token like spark burning the Cypo World!
